@@ -37,7 +37,7 @@ function play(){
     else{
         Swal.fire({
             title: 'Well done!',
-            imageUrl: 'https://cdn.glitch.com/805bbfbe-d690-42f8-a1c9-9e3a834f4f27%2Fimage.jpg?v=1633286946062',
+            imageUrl: 'photo3.png',
             imageWidth: 400,
             imageHeight: 200,
             imageAlt: 'victory',
